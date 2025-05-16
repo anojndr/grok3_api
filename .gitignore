@@ -1,3 +1,6 @@
 *.json
 grok3_api
 *.exe
+cookies.txt
+repomix*
+my_changes.diff
